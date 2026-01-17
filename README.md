@@ -1,10 +1,6 @@
-################################################################################
-#                                                                              #
-#       ⚡   C L A S H   O F   M I N D S   [ L O C A L ]   ⚡                  #
-#                                                                              #
-#           >>  VIBE CODED IN ANTIGRAVITY FOR THE WIN  <<                      #
-#                                                                              #
-################################################################################
+
+#       ⚡   C L A S H    O F    M I N D S   [ L O C A L ]   ⚡                  #
+                                                                            
 
 ## 💀 THE MISSION
 You are entering a high-stakes debate competition. You need an edge. 
